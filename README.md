@@ -28,6 +28,8 @@ As a default `numpy` is installed. For other packages, you will need to run `req
 
 ## Repo Structure
 
+The notebooks should be run in the following order : 'new_data_processing.ipynb' and then 'Binary Classification.ipnyb'
+
 The folder structure has to be the following:
 
     ├── Data              # Data files, in .csv
